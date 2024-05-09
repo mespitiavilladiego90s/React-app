@@ -1,8 +1,4 @@
 # React + Vite
 
-This template provides a minimal setup to get React working in Vite with HMR and some ESLint rules.
+This project has been built with React + Vite. This was an interface for a restaurant called 'Crispy Chips', which was developed to improve their business records by generating a command, which later will be stored and used to create weekly/monthly/yearly reports. The app has been deployed to netlify, so you can give it a try by yourself if you hit the following link => https://relaxed-bublanina-d7906b.netlify.app/
 
-Currently, two official plugins are available:
-
-- [@vitejs/plugin-react](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react/README.md) uses [Babel](https://babeljs.io/) for Fast Refresh
-- [@vitejs/plugin-react-swc](https://github.com/vitejs/vite-plugin-react-swc) uses [SWC](https://swc.rs/) for Fast Refresh
